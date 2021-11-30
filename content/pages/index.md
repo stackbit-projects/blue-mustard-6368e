@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: white
-      background_image: images/diagonal-lines.svg
+      background_image: /images/Screenshot from 2021-09-05 21-50-05.png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
